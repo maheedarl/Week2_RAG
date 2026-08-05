@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 0713fb5610fe3bdcf3a43deedf5093708b22a5e8
 # Knowledge Assistant — Capstone
 
 A 30-week build of a Q&A assistant over a small document corpus (Agentic AI & RAG Engineering).
@@ -88,3 +92,9 @@ python -m venv .venv && source .venv/bin/activate     # optional but recommended
 pip install -r requirements.txt                        # add --break-system-packages on Vocareum
 echo "OPENAI_API_KEY=sk-your-key" > .env               # never commit this file
 ```
+<<<<<<< HEAD
+=======
+=======
+# Week2_RAG
+>>>>>>> 0b9beea5ac295314d8c3741338ac5d31c7eb4188
+>>>>>>> 0713fb5610fe3bdcf3a43deedf5093708b22a5e8
